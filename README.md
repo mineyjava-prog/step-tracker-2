@@ -3,6 +3,7 @@
 I coded this in one night - it was painful... but there are still bugs and things I'm going to add so stay tuned or smth! :D**
 ## Read ^^^
 
+# I have no idea what all these files are for ToT
 
 ## Wanna Use as Extension?
 
