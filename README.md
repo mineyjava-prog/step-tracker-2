@@ -1,7 +1,10 @@
+## Read vvv
+**I worked on this Step Tracker for microbit. Pretty well optimised but may be slightly intensive for the microbit lol.
+I coded this in one night - it was painful... but there are still bugs and things I'm going to add so stay tuned or smth! :D**
+## Read ^^^
 
-> Open this page at [https://mineyjava-prog.github.io/step-tracker-2/](https://mineyjava-prog.github.io/step-tracker-2/)
 
-## Use as Extension
+## Wanna Use as Extension?
 
 This repository can be added as an **extension** in MakeCode.
 
@@ -10,7 +13,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/mineyjava-prog/step-tracker-2** and import
 
-## Edit this project
+## Wanna Edit this project?
 
 To edit this repository in MakeCode.
 
