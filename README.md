@@ -1,6 +1,6 @@
 ## Read vvv
 **I worked on this Step Tracker for microbit. Pretty well optimised but may be slightly intensive for the microbit lol.
-I coded this in one night - it was painful... but there are still bugs and things I'm going to add so stay tuned or smth! :D**
+I finally finished it! Maybe more updates but probably not cause it's just for a class :/**
 ## Read ^^^
 
 # I have no idea what all these files are for ToT
